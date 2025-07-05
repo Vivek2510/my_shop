@@ -21,8 +21,7 @@ A simple Flutter demo app to showcase:
 
 ## 📸 Preview
 
-### 🎥 Demo Video  
-[![Watch the demo](https://github.com/user-attachments/assets/d87eae7a-b25f-4f98-aa13-21724a4c1130)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+https://github.com/user-attachments/assets/d87eae7a-b25f-4f98-aa13-21724a4c1130
 
 ### 🖼️ Screenshots
 
