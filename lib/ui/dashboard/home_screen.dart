@@ -190,29 +190,31 @@ class _HomeScreenState extends State<HomeScreen> {
                     ),
                   ),
                   Divider(),
-                  Expanded(
-                    child: ListView.builder(
-                      itemCount:
-                          widget
-                              .dashboardCubit
-                              .productResponse
-                              ?.products
-                              ?.length,
-                      shrinkWrap: true,
-                      physics: ScrollPhysics(),
-                      itemBuilder: (context, index) {
-                        return productTile(
-                          item:
+                  (state is DashboardLoadingState)
+                      ? CircularProgressIndicator()
+                      : Expanded(
+                        child: ListView.builder(
+                          itemCount:
                               widget
                                   .dashboardCubit
                                   .productResponse
-                                  ?.products?[index] ??
-                              Products(),
-                          themeState: themeState,
-                        );
-                      },
-                    ),
-                  ),
+                                  ?.products
+                                  ?.length,
+                          shrinkWrap: true,
+                          physics: ScrollPhysics(),
+                          itemBuilder: (context, index) {
+                            return productTile(
+                              item:
+                                  widget
+                                      .dashboardCubit
+                                      .productResponse
+                                      ?.products?[index] ??
+                                  Products(),
+                              themeState: themeState,
+                            );
+                          },
+                        ),
+                      ),
                 ],
               );
             },
