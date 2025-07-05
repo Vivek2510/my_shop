@@ -21,13 +21,13 @@ A simple Flutter demo app to showcase:
 
 ## 📸 Preview
 
-https://github.com/user-attachments/assets/d87eae7a-b25f-4f98-aa13-21724a4c1130
+https://drive.google.com/file/d/1yiuT5Nlz_IaxMK12ux13PqmKEcw0W7ue/view?usp=sharing
 
 ### 🖼️ Screenshots
 
-<img src="https://github.com/user-attachments/assets/9b0682e4-2e8a-4bcf-8e2c-a67af19a1d92" width="300" />
-<img src="https://github.com/user-attachments/assets/aec6820e-6685-4bf7-b789-cce82c42da4b" width="300" />
-<img src="https://github.com/user-attachments/assets/24cacf2c-6678-4023-8b99-62141439e109" width="300" />
+<img src="https://drive.google.com/uc?export=view&id=12y4ZUb4YAbaGVNrGV6tukRarrktg55y-" width="300" />
+<img src="https://drive.google.com/uc?export=view&id=12LnUHf6FzBa77ClEkfTGcAlrB5bef4yt" width="300" />
+<img src="https://drive.google.com/uc?export=view&id=1xZSnuDKWTXv-aF6q1IyaRM752YeVbYRr" width="300" />
 
 ---
 
