@@ -22,13 +22,13 @@ A simple Flutter demo app to showcase:
 ## 📸 Preview
 
 ### 🎥 Demo Video  
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the demo](https://github.com/user-attachments/assets/d87eae7a-b25f-4f98-aa13-21724a4c1130)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 ### 🖼️ Screenshots
 
-| Home Screen                          | Search Suggestion                    |
-|-------------------------------------|--------------------------------------|
-| ![Home](assets/images/home_screen.png) | ![Search](assets/images/search_suggestion.png) |
+<img src="https://github.com/user-attachments/assets/9b0682e4-2e8a-4bcf-8e2c-a67af19a1d92" width="300" />
+<img src="https://github.com/user-attachments/assets/aec6820e-6685-4bf7-b789-cce82c42da4b" width="300" />
+<img src="https://github.com/user-attachments/assets/24cacf2c-6678-4023-8b99-62141439e109" width="300" />
 
 ---
 
